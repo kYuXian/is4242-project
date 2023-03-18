@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.psd filter=lfs diff=lfs merge=lfs -text
+steam_spy_tag_data.csv filter=lfs diff=lfs merge=lfs -text
+Data/steam_spy_tag_data.csv filter=lfs diff=lfs merge=lfs -text
