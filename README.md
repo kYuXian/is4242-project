@@ -16,9 +16,9 @@
  **Project Structure** 
  
   - ---> Home
-  -  ---> Project Code (Contains all the .ipynb files used for generating data and model outputs)
-  -    ---> data (Data train and test sets)
-  -  ---> Data (Contains all our .csv files with data after cleaning and preprocessing)
-  -    ---> Raw (Raw data directly fetched via APIs )
+    - ---> Project Code (Contains all the .ipynb files used for generating data and model outputs)
+      - ---> data (Data train and test sets)
+    - ---> Data (Contains all our .csv files with data after cleaning and preprocessing)
+      - ---> Raw (Raw data directly fetched via APIs )
  
  
