@@ -12,8 +12,8 @@
     c. steam_store_dlc_cleaning.ipynb
     d. steam_data_preprocessing.ipynb
     e. Modelling.ipynb
- 
-** Project Structure**
+    
+ **Project Structure** 
   ---> Home
     ---> Project Code (Contains all the .ipynb files used for generating data and model outputs)
       ---> data (Data train and test sets)
