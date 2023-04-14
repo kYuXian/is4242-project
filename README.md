@@ -7,7 +7,7 @@
  4. Run the command pip install -r requirements.txt
  5. Ensure your python environment is running
  6. Navigate to teh Project Code folder and run all of the cells in all the .ipynb files in teh follwing order:
-  - a. data_acquisition.ipynb
+  - a. data_acquisition.ipynb (May take a while to run)
   - b. steam_store_cleaning.ipynb
   - c. steam_store_dlc_cleaning.ipynb
   - d. steam_data_preprocessing.ipynb
